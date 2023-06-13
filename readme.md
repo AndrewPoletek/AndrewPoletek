@@ -16,7 +16,7 @@ https://github.com/AndrewPoletek/WeatherStation---Arduino
 ## Reseter Orange Pi
 ### Description
 One day my boss come to me and say, "Hey Andrew, i have a problem with my router sometimes it freeze and i lost connection to the internet" so i was say "Okay ill find some solution for this"  
-And i was made a Reseter, it cat steering a 230AC devices by pinging 10 biggest websites in the internet if anyone not respond system will restart device by cut off the power and cut on.  
+And i was made a Reseter, it cat steering a 230AC devices by pinging 10 biggest websites in the internet if anyone not respond system will restart device by cut off the power and restore power.  
 Inside you can find schema, and code.
 Finally it wasnt deploy in production but i was used this device for steering oil furnace in my home for reduce using oil when warm water is not needed
 
