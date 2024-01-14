@@ -2,13 +2,6 @@
 
 Below im add list of my projects with short descriptions
 
-## Complete React Developer Course
-### Description:
-In this project im putting a code created during course from udemy
-Stack tech: ReactJS
-### Link
-https://github.com/AndrewPoletek/complete_react_developer_course
-
 ## Driving Robot Arduino  
 ### Description: 
 One time i was try play with arduino and im made a robot and change old PC pad to steering pilot. In repository you can find code for Robot, steering pad and video with finish product which was worked  
